@@ -1,0 +1,6 @@
+{
+  "name": "Outlook Email Inspector & Quality Auditor",
+  "description": "Sistema para login com Microsoft Outlook, visualização de e-mails e análise profunda de escopo, precisão de informações, erros textuais e detecção de espaços sobrando.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
